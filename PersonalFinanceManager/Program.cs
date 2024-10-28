@@ -205,6 +205,8 @@ public class Program
 
                 default:
                     Console.WriteLine("Invalid option. Try again.");
+                     Console.WriteLine(" Try again.");
+                    
                     break;
             }
         }
